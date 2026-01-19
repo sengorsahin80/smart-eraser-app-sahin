@@ -1,5 +1,5 @@
 Flask==2.3.3
 rembg==2.0.72
-Pillow==10.1.0
+Pillow>=12.1.0  # veya sadece "Pillow"
 numpy==1.24.3
 gunicorn==20.1.0
